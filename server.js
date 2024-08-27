@@ -1,3 +1,4 @@
+//serer to handle the chat using socket.io
 const http = require("http");
 const { Server } = require("socket.io");
 const cors = require("cors");
